@@ -15,7 +15,7 @@ The objective of this program is to demonstrate the following:
 * utilize conditional statements to guide course of program via set conditions
 * display knowledge of basic Python arithmetic
 
-This program assumes that the user will enter a valid input each time the program requests any integer/float values.  The program's output will result in unknown behavior if anything other than an integer or float value is entered by the user.  The program will also be aborted if any input value is a number less than zero.  The program will also assume that the amount of money that the user would like to match will be a float value with no more than two decimal places
+This program assumes that the user will enter a valid input each time the program requests any integer/float values.  The program's output will result in unknown behavior if anything other than an integer or float value is entered by the user.  The program will also be aborted if any input value is a number less than zero.  The program will also assume that the amount of money that the user would like to match will be a float value with no more than two decimal places.
 
 ## Getting Started
 To run the program, download the contents of the project and simply run make in the terminal.
